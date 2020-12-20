@@ -1,2 +1,3 @@
 # Ktinker-Calculator
- I have made this calculator for destop purpose and its very easy to implement
+ I have made this calculator for desktop purpose and its very easy to implement using Ktinker
+ I am even thinking of designing this calculator with some bright colors.
